@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Juego de Tronos",
+        "author": "George R. R. Martin"
+    },
+    {
+        "id": 2,
+        "name": "IT",
+        "author": "Stephen King"
+    },
+    {
+        "id": 3,
+        "name": "Maze Runner: correr o morir",
+        "author": "James Dashner"
+    }
+]

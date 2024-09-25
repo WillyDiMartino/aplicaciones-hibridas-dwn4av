@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Guillermo",
+        "email": "willy@gmail.com",
+        "lastname": "Di Martino",
+        "username": "willy01",
+        "rol": "super-admin",
+        "password": "$2b$10$dY7YagjX5Cfq7JlJ8xnJvukzlw2GDFdGC4vG7k5.gn2X1Mgdmm7Na"
+    },
+    {
+        "id": 2,
+        "name": "Luciano",
+        "email": "lucho@gmail.com",
+        "lastname": "Lopez",
+        "username": "lucho01",
+        "rol": "admin",
+        "password": "$2b$10$V8EPX9t6JlWgdidmCParp.POYg0wjDYHhwkn3kzT5pUWU8lOp1856"
+    },
+    {
+        "id": 3,
+        "name": "Tomás",
+        "email": "tomi@gmail.com",
+        "lastname": "Paravic",
+        "username": "tomi01",
+        "rol": "usuario",
+        "password": "$2b$10$.jCtM.5rBL5xzU9o4T1i0.PxzeWbQwQBpo7C4loPCgQyyBYmu3E36"
+    }
+]
