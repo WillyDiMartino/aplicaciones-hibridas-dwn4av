@@ -16,8 +16,6 @@ app.use(express.static(path.join(path.dirname(__filename), "public")));
 
 
 app.get("/", (req, res) => {
-    // res.sendFile(path.join(path.dirname(__filename), "public", "index.html"));
-    // Al declararse la ruta en el app.use se renderiza el index.html. No obstante, hay que declarar las demás páginas que se quieran mostrar
 });
 
 app.get("/libros" , (req, res) =>{

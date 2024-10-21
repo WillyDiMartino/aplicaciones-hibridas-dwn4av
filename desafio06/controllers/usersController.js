@@ -98,16 +98,4 @@ const deleteUser = (req, res) => {
     }
 };
 
-function verificarRol(rolesPermitidos){
-    return function(req, res, next){
-        const rolUsuario = req.headers['x-rol'];
-
-        if(rolesPermitidos.includes(rolUsuario)){
-            next();
-        }else{
-            res.status(403).json({mensaje: "Acceso denegado"})
-        }
-    }
-}
-
-export {getAllUsers, getUserById, createUser, loginUser, updateUser, deleteUser, verificarRol};
+export {getAllUsers, getUserById, createUser, loginUser, updateUser, deleteUser};
