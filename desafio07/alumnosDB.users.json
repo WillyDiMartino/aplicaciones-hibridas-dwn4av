@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "6716a0ee72a5a9f4a4b8a929"
+  },
+  "nombre": "Guillermo",
+  "apellido": "Di Martino",
+  "edad": 20,
+  "email": "juan.perez@example.com",
+  "direccion": {
+    "calle": "Av. Corrientes 1000",
+    "ciudad": "Luján",
+    "codigo_postal": "6700"
+  }
+},
+{
+  "_id": {
+    "$oid": "6716a0ee72a5a9f4a4b8a92a"
+  },
+  "nombre": "María",
+  "apellido": "Gómez",
+  "edad": 22,
+  "email": "maria.gomez@example.com",
+  "direccion": {
+    "calle": "Calle San Martín 250",
+    "ciudad": "Mar del Plata",
+    "codigo_postal": "7600"
+  }
+},
+{
+  "_id": {
+    "$oid": "6716a0ee72a5a9f4a4b8a92b"
+  },
+  "nombre": "Luis",
+  "apellido": "Fernández",
+  "edad": 21,
+  "email": "luis.fernandez@example.com",
+  "direccion": {
+    "calle": "Calle Mendoza 345",
+    "ciudad": "Tandil",
+    "codigo_postal": "7000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6716a0ee72a5a9f4a4b8a92c"
+  },
+  "nombre": "Ana",
+  "apellido": "Martínez",
+  "edad": 23,
+  "email": "ana.martinez@example.com",
+  "direccion": {
+    "calle": "Calle Rivadavia 1234",
+    "ciudad": "Bahía Blanca",
+    "codigo_postal": "8000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6716a0ee72a5a9f4a4b8a92d"
+  },
+  "nombre": "Pedro",
+  "apellido": "Sánchez",
+  "edad": 19,
+  "email": "pedro.sanchez@example.com",
+  "direccion": {
+    "calle": "Av. Libertador 3000",
+    "ciudad": "San Nicolás de los Arroyos",
+    "codigo_postal": "2900"
+  }
+},
+{
+  "_id": {
+    "$oid": "6716a0ee72a5a9f4a4b8a92e"
+  },
+  "nombre": "Lucía",
+  "apellido": "Torres",
+  "edad": 20,
+  "email": "lucia.torres@example.com",
+  "direccion": {
+    "calle": "Calle Entre Ríos 500",
+    "ciudad": "Olavarría",
+    "codigo_postal": "7400"
+  }
+},
+{
+  "_id": {
+    "$oid": "6716a0ee72a5a9f4a4b8a92f"
+  },
+  "nombre": "Javier",
+  "apellido": "Ramírez",
+  "edad": 22,
+  "email": "javier.ramirez@example.com",
+  "direccion": {
+    "calle": "Calle Catamarca 888",
+    "ciudad": "Junín",
+    "codigo_postal": "6000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6716a0ee72a5a9f4a4b8a930"
+  },
+  "nombre": "Clara",
+  "apellido": "Hernández",
+  "edad": 21,
+  "email": "clara.hernandez@example.com",
+  "direccion": {
+    "calle": "Calle Sarmiento 123",
+    "ciudad": "Luján",
+    "codigo_postal": "6700"
+  }
+},
+{
+  "_id": {
+    "$oid": "6716a0ee72a5a9f4a4b8a931"
+  },
+  "nombre": "David",
+  "apellido": "Jiménez",
+  "edad": 20,
+  "email": "david.jimenez@example.com",
+  "direccion": {
+    "calle": "Calle San Luis 456",
+    "ciudad": "Pergamino",
+    "codigo_postal": "2700"
+  }
+},
+{
+  "_id": {
+    "$oid": "6716a0ee72a5a9f4a4b8a932"
+  },
+  "nombre": "Sofía",
+  "apellido": "Vázquez",
+  "edad": 23,
+  "email": "sofia.vazquez@example.com",
+  "direccion": {
+    "calle": "Calle Tucumán 321",
+    "ciudad": "Zárate",
+    "codigo_postal": "2800"
+  }
+}]

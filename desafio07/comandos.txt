@@ -1,0 +1,12 @@
+Comandos MongoDB utilizados:
+
+    use alumnosDB
+    db.createColecction("users")
+    db.users.insertMany([objetos])
+    db.users.find() // para buscar todos los usuarios
+    db.users.findOne() // para buscar el primer dato de la collección
+    db.users.find({nombre: "Sofía"}) // para encontrar los objetos que coincidan con el nombre 
+    db.users.find({nombre: {$regex: "So"}}) // para encontrar los objetos que coincidan con So
+    db.users.findOneAndUpdate ({_id: ObjectId("6716a0ee72a5a9f4a4b8a929")}, { $set: {nombre: "Guillermo", apellido: "Di Martino"} }, {new: true}) // para editar un usuarios
+    db.users.deleteOne ({_id: ObjectId("6716a52d72a5a9f4a4b8a933)}) // para borrar un usuario 
+
